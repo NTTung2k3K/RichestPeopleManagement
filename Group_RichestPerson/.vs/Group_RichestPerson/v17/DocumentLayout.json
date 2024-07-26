@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{417D66AB-F1EB-4861-A231-169FA69AD273}|Repository\\Repository.csproj|d:\\learning\\cn5\\prn212\\baitapnhom\\group_project_final\\group_richestperson\\repository\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{417D66AB-F1EB-4861-A231-169FA69AD273}|Repository\\Repository.csproj|solutionrelative:repository\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E322990-B1CE-4AD7-83B5-C8356D957757}|UserInterface\\UserInterface.csproj|d:\\learning\\cn5\\prn212\\baitapnhom\\group_project_final\\group_richestperson\\userinterface\\countrywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E322990-B1CE-4AD7-83B5-C8356D957757}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\countrywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E322990-B1CE-4AD7-83B5-C8356D957757}|UserInterface\\UserInterface.csproj|D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\userinterface\\detailcountrywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E322990-B1CE-4AD7-83B5-C8356D957757}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\detailcountrywindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E322990-B1CE-4AD7-83B5-C8356D957757}|UserInterface\\UserInterface.csproj|D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\userinterface\\detailcountrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2E322990-B1CE-4AD7-83B5-C8356D957757}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\detailcountrywindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E322990-B1CE-4AD7-83B5-C8356D957757}|UserInterface\\UserInterface.csproj|D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\userinterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E322990-B1CE-4AD7-83B5-C8356D957757}|UserInterface\\UserInterface.csproj|solutionrelative:userinterface\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 134,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\Repository\\appsettings.json",
+              "RelativeDocumentMoniker": "Repository\\appsettings.json",
+              "ToolTip": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\Repository\\appsettings.json",
+              "RelativeToolTip": "Repository\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T02:51:29.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountryWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\UserInterface\\CountryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserInterface\\CountryWindow.xaml.cs",
+              "ToolTip": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\UserInterface\\CountryWindow.xaml.cs",
+              "RelativeToolTip": "UserInterface\\CountryWindow.xaml.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAADwv2sAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:42:08.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DetailCountryWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\UserInterface\\DetailCountryWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserInterface\\DetailCountryWindow.xaml.cs",
+              "ToolTip": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\UserInterface\\DetailCountryWindow.xaml.cs",
+              "RelativeToolTip": "UserInterface\\DetailCountryWindow.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwDMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T02:41:14.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DetailCountryWindow.xaml",
+              "DocumentMoniker": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\UserInterface\\DetailCountryWindow.xaml",
+              "RelativeDocumentMoniker": "UserInterface\\DetailCountryWindow.xaml",
+              "ToolTip": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\UserInterface\\DetailCountryWindow.xaml",
+              "RelativeToolTip": "UserInterface\\DetailCountryWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-26T02:41:10.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\UserInterface\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UserInterface\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Learning\\CN5\\PRN212\\baitapnhom\\Group_Project_final\\Group_RichestPerson\\UserInterface\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UserInterface\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAKUAAAAAAAAAAAAAALgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-25T16:02:20.52Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 149,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
