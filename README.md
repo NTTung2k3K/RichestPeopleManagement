@@ -14,8 +14,6 @@ A WPF application to manage the richest people data fetched from Kaggle. This ap
 - Lâm Thanh Quốc Thắng - SE171445
 - Trần Hoàng Huân - SE171219
 
-## Screenshots
-
 ### Main Window
 ![Screenshot 2024-07-26 095711](https://github.com/user-attachments/assets/56a60e64-5f34-42ac-846b-1ee31ace8dce)
 
